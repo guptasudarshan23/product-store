@@ -2,6 +2,9 @@
 
 A full-stack **MERN** (MongoDB, Express, React, Node.js) application that allows users to create, update, and delete products. Built with modern tools like **Vite**, **Zustand**, and **Chakra UI** for state management and styling.
 
+How to run? 
+npm run start
+
 ---
 
 ## 🚀 Features
